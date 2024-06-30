@@ -1,26 +1,10 @@
 {
-  "mod_elements": [
-    {
-      "name": "Da",
-      "type": "item",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "da",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/redsguns/item/DaItem.java",
-          "src/main/resources/assets/reds_guns/models/item/da.json"
-        ]
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "language_map": {
-    "en_us": {
-      "item.reds_guns.da": "Da"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
