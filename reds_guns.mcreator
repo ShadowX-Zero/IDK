@@ -12,6 +12,16 @@
           "src/main/resources/assets/reds_guns/models/item/ad.json"
         ]
       }
+    },
+    {
+      "name": "Adhs",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adhs",
+      "metadata": {
+        "files": []
+      }
     }
   ],
   "variable_elements": [],
