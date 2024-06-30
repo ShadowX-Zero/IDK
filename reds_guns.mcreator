@@ -1,36 +1,10 @@
 {
-  "mod_elements": [
-    {
-      "name": "Ad",
-      "type": "item",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ad",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/redsguns/item/AdItem.java",
-          "src/main/resources/assets/reds_guns/models/item/ad.json"
-        ]
-      }
-    },
-    {
-      "name": "Adhs",
-      "type": "villagertrade",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "adhs",
-      "metadata": {
-        "files": []
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "language_map": {
-    "en_us": {
-      "item.reds_guns.ad": "Ad"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
