@@ -1,0 +1,16 @@
+{
+  "_fv": 60,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Better Fletcher",
+    "pointOfInterest": {
+      "value": "Blocks.WARPED_STEM"
+    },
+    "actionSound": {
+      "value": "entity.warden.heartbeat"
+    },
+    "hat": "None",
+    "professionTextureFile": "b9084b9a100f5336.png",
+    "zombifiedProfessionTextureFile": "b9084b9a100f5336.png"
+  }
+}

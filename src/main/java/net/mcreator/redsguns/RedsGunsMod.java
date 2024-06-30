@@ -17,6 +17,8 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.redsguns.init.RedsGunsModVillagerProfessions;
+
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -36,6 +38,8 @@ public class RedsGunsMod {
 		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		RedsGunsModVillagerProfessions.PROFESSIONS.register(bus);
 
 		// Start of user code block mod init
 		// End of user code block mod init
